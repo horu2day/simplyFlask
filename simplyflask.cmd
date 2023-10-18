@@ -1,5 +1,5 @@
 @echo off
-cd E:\Kaosoft\Flask_API\flaskApi\simplyFlask
+cd D:\MyAI\flaskApp\simplyFlask
 set FLASK_APP=pybo
 set FLASK_DEBUG=true
-E:\Kaosoft\Flask_API\flaskApi\simplyFlask\flaskenv\scripts\activate
+D:\MyAI\flaskApp\simplyFlask\flaskenv\scripts\activate
